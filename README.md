@@ -19,7 +19,7 @@ This Rust project scrapes the top perfumes listed on [Parfumo](https://www.parfu
 
 ## Features
 
-- **Scrape Perfume Data**: Extracts name, brand, URL, and image source for each perfume.
+- **Scrape Perfume Data**: Extracts name, brand, URL, image and score source for each perfume.
 - **Handles Multiple Categories**: Scrapes data for Women, Men, and Unisex categories.
 - **CSV Export**: Saves the scraped data in neatly formatted CSV files.
 
